@@ -1,0 +1,21 @@
+* {
+    font-size: 72pt;
+    text-align: center;
+    font-family: Arial;
+}
+
+#tmp {
+    background: deepskyblue;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 10px;
+}
+
+#hmd {
+    background: rgb(80, 80, 80);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 10px;
+}
